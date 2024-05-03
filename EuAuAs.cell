@@ -1,0 +1,7 @@
+<!DOCTYPE Crystal>
+<Crystal>
+ <Spacegroup symbol="P63/mmc"/>
+ <Cell beta="90.00000000000001" gamma="120" alpha="90.00000000000001" a="4.44" b="4.44" c="8.280000000000001"/>
+ <Orientation phi="170.7417543733025" omega="-110.5325123244563" chi="-10.74980616402085"/>
+ <RotationAxis x="1" y="0" z="0" type="0"/>
+</Crystal>
